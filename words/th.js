@@ -5,6 +5,7 @@ words.th = [
 "therapeutic",
 "thrifty",
 "thoughtful",
+"thigmomorphogenetic",
 "thirsty",
 "theoretical",
 "thievish",
